@@ -4,8 +4,10 @@ I built the Currency Converter, a web application that allows users to convert b
 
 🖼️ Screenshots
 
-🔹 Initial Interface: Currency Converter UI
-(screenshot/ui.png)
+🔹 Initial Interface:
+![Currency Converter UI](screenshot/ui.png)
+
+
 
 ✨ Features I Implemented
 
