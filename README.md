@@ -41,12 +41,12 @@ Follow these steps to run the project on your own machine:
 
 1️⃣ Clone the Repository:
 
-git clone https://github.com/Mithcodes007/Currency-Converter.git
+git clone https://github.com/Mithcodes007/Currency-Converter-API.git
 
 
 2️⃣ Navigate into the Project Folder:
 
-cd Currency-Converter 
+cd Currency-Converter-API 
 
 
 3️⃣ Open the Project with Live Server:
