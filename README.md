@@ -1,15 +1,15 @@
-🚀 Currency Converter
+**🚀 Currency Converter**
 
 I built the Currency Converter, a web application that allows users to convert between different currencies using the latest exchange rates. The app fetches real-time exchange rates from an external API using JavaScript's Fetch API and provides a simple, intuitive interface for quick conversions.
 
-🖼️ Screenshots
+**🖼️ Screenshot**
 
 🔹 Initial Interface:
+
 ![Currency Converter UI](screenshot/ui.png)
 
 
-
-✨ Features I Implemented
+**✨ Features I Implemented**
 
 ✅ Real-Time Exchange Rates: Dynamically fetches updated exchange rates.
 ✅ User-Friendly Interface: Designed a simple and intuitive layout for easy interaction.
@@ -17,7 +17,7 @@ I built the Currency Converter, a web application that allows users to convert b
 ✅ Interactive UI Elements: Displays flags next to the selected currencies.
 ✅ Fast & Lightweight: Built using only HTML, CSS, and JavaScript with no extra dependencies.
 
-📂 My Implementation Overview
+**📂 My Implementation Overview**
 
 index.html → Structured the web page with input fields and dropdowns.
 
@@ -27,7 +27,7 @@ codes.js → Wrote functions to fetch exchange rates and update the interface dy
 
 app.js → Handled all user interactions and conversion logic.
 
-🛠️ Technologies I Used
+**🛠️ Technologies I Used**
 
 HTML → Defined the webpage structure.
 
@@ -37,7 +37,7 @@ JavaScript → Implemented the logic for fetching exchange rates and conversions
 
 Fetch API → Integrated real-time API requests to get updated currency rates.
 
-🚀 How I Set It Up Locally
+**🚀 How I Set It Up Locally**
 
 Follow these steps to run the project on your own machine:
 
@@ -67,7 +67,7 @@ Select the "To" currency.
 
 Click Get Exchange Rate to see the conversion.
 
-🌐 API Endpoint I Used
+**🌐 API Endpoint I Used**
 
 The application fetches exchange rates from:
 
